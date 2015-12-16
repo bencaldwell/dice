@@ -1,0 +1,34 @@
+2015-12-16 19:51:57.984 [main] DEBUG com.caldwellsoftware.dice.Genotype - =====Genotype=====
+2015-12-16 19:51:57.987 [main] DEBUG com.caldwellsoftware.dice.Gene - └── OUT1
+2015-12-16 19:51:57.987 [main] DEBUG com.caldwellsoftware.dice.Gene -     └── AND
+2015-12-16 19:51:57.988 [main] DEBUG com.caldwellsoftware.dice.Gene -         ├── TOFF1
+2015-12-16 19:51:57.988 [main] DEBUG com.caldwellsoftware.dice.Gene -         │   └── AND
+2015-12-16 19:51:57.988 [main] DEBUG com.caldwellsoftware.dice.Gene -         │       ├── TON1
+2015-12-16 19:51:57.988 [main] DEBUG com.caldwellsoftware.dice.Gene -         │       │   └── IN2
+2015-12-16 19:51:57.988 [main] DEBUG com.caldwellsoftware.dice.Gene -         │       └── TON1
+2015-12-16 19:51:57.989 [main] DEBUG com.caldwellsoftware.dice.Gene -         │           └── IN1
+2015-12-16 19:51:57.989 [main] DEBUG com.caldwellsoftware.dice.Gene -         └── AND
+2015-12-16 19:51:57.989 [main] DEBUG com.caldwellsoftware.dice.Gene -             ├── IN1
+2015-12-16 19:51:57.989 [main] DEBUG com.caldwellsoftware.dice.Gene -             └── TOFF1
+2015-12-16 19:51:57.990 [main] DEBUG com.caldwellsoftware.dice.Gene -                 └── TON1
+2015-12-16 19:51:57.990 [main] DEBUG com.caldwellsoftware.dice.Gene -                     └── IN1
+2015-12-16 19:51:57.990 [main] DEBUG com.caldwellsoftware.dice.Gene - └── OUT2
+2015-12-16 19:51:57.990 [main] DEBUG com.caldwellsoftware.dice.Gene -     └── TON1
+2015-12-16 19:51:57.991 [main] DEBUG com.caldwellsoftware.dice.Gene -         └── AND
+2015-12-16 19:51:57.991 [main] DEBUG com.caldwellsoftware.dice.Gene -             ├── AND
+2015-12-16 19:51:57.991 [main] DEBUG com.caldwellsoftware.dice.Gene -             │   ├── IN1
+2015-12-16 19:51:57.992 [main] DEBUG com.caldwellsoftware.dice.Gene -             │   └── AND
+2015-12-16 19:51:57.992 [main] DEBUG com.caldwellsoftware.dice.Gene -             │       ├── IN2
+2015-12-16 19:51:57.992 [main] DEBUG com.caldwellsoftware.dice.Gene -             │       └── IN2
+2015-12-16 19:51:57.992 [main] DEBUG com.caldwellsoftware.dice.Gene -             └── TOFF1
+2015-12-16 19:51:57.993 [main] DEBUG com.caldwellsoftware.dice.Gene -                 └── IN1
+2015-12-16 19:51:57.993 [main] DEBUG com.caldwellsoftware.dice.Genotype - =====Genotype=====
+2015-12-16 19:51:57.993 [main] DEBUG com.caldwellsoftware.dice.Gene - └── OUT1
+2015-12-16 19:51:57.993 [main] DEBUG com.caldwellsoftware.dice.Gene -     └── TOFF1
+2015-12-16 19:51:57.993 [main] DEBUG com.caldwellsoftware.dice.Gene -         └── TOFF1
+2015-12-16 19:51:57.994 [main] DEBUG com.caldwellsoftware.dice.Gene -             └── IN2
+2015-12-16 19:51:57.994 [main] DEBUG com.caldwellsoftware.dice.Gene - └── OUT2
+2015-12-16 19:51:57.994 [main] DEBUG com.caldwellsoftware.dice.Gene -     └── TON1
+2015-12-16 19:51:57.995 [main] DEBUG com.caldwellsoftware.dice.Gene -         └── TOFF1
+2015-12-16 19:51:57.995 [main] DEBUG com.caldwellsoftware.dice.Gene -             └── TOFF1
+2015-12-16 19:51:57.995 [main] DEBUG com.caldwellsoftware.dice.Gene -                 └── IN1
